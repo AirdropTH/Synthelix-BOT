@@ -1,0 +1,22 @@
+{
+    "name": "synthelix-bot",
+    "version": "1.0.0",
+    "description": "Synthelix BOT",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.8",
+      "colors": "^1.4.0",
+      "crypto": "^1.0.1",
+      "dotenv": "^16.4.5",
+      "ethers": "^6.11.1",
+      "fs": "^0.0.1-security",
+      "https-proxy-agent": "^7.0.4",
+      "luxon": "^3.4.4",
+      "user-agents": "^1.1.215"
+    },
+    "author": "caobang",
+    "license": "MIT"
+  }
